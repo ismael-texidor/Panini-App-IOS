@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   timeList.plist
+   PaniniApp
+
+   Created by Texidor-Rodriguez, Ismael on 3/30/16.
+   Copyright (c) 2016 Texidor-Rodriguez, Ismael. All rights reserved.
+-->
+<plist version="1.0">
+    <array>
+        <string>1 to 2 minutes</string>
+        <string>1 to 2 minutes</string>
+        <string>3 to 4 minutes</string>
+        <string>1 to 2 minutes</string>
+        <string>4 to 5 minutes</string>
+        <string>3 to 4 minutes</string>
+    </array>
+</plist>

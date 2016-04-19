@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <string>Canadian bacon, English muffins, eggs</string>
+        <string>French bread, eggs, milk, cream cheese</string>
+        <string>Sourdough bread, butter, mozzarella cheese, baby spinach</string>
+        <string>Cricotta cheese, baby spinach, dried oregano, ciabatta rolls</string>
+        <string>Salmon croquette, green onion, minced red bell peppers, Italian rolls</string>
+        <string>Italian rolls, butter, basil pesto, roasted chicken breast</string>
+    </array>
+</plist>

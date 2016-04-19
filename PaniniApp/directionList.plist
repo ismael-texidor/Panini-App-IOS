@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   directionList.plist
+   PaniniApp
+
+   Created by Texidor-Rodriguez, Ismael on 3/30/16.
+   Copyright (c) 2016 Texidor-Rodriguez, Ismael. All rights reserved.
+-->
+<plist version="1.0">
+    <array>
+        <string>Grill the bacon first and then muffins.</string>
+        <string>Whisk egg and milk together.</string>
+        <string>WBrush one side of bread with butter and place sandwich in grill.</string>
+        <string>Place rolls on a work surface and brush crusts with oil.</string>
+        <string>Place rolls on a work surface and brush crusts with oil.</string>
+        <string>Place rolls on a work surface and brush crusts with oil.</string>
+    </array>
+</plist>
